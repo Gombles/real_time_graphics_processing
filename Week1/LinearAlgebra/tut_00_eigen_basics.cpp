@@ -37,7 +37,7 @@ int main(int argc, char* argv[]) {
 	std::cout << "myOtherVector:\n" << myOtherVector << std::endl;
 
 	// For vectors you can use the [] or () operators
-	myOtherVector(1) = 1.f;
+	myOtherVector(1) = 2.f;
 	std::cout << "myOtherVector:\n" << myOtherVector << std::endl;
 
 	// For matrices you have to use ()
