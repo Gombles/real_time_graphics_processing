@@ -32,3 +32,5 @@
 *.app
 
 3rdParty/
+real_time_graphics_processing.code-workspace
+.vscode/tasks.json
